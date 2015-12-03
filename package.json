@@ -15,6 +15,6 @@
   "dependencies": {
     "prismic.io": "git+ssh://git@github.com:faresd/javascript-kit.git#1.3.41",
     "promise": "^7.0.4"
-  },
+  }, 
   "main": "./index.js"
 }
